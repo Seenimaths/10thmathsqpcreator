@@ -1,0 +1,25 @@
+{
+  "name": "Seeni XQP Creator Studio V12 — 10th Maths Question Paper Generator",
+  "short_name": "Seeni XQP V12",
+  "description": "10th Standard Mathematics Bilingual (Tamil & English Medium) Automatic Question Paper, Step-Mark Answer Key & 1-Page Blueprint Studio. Developed By Y. SEENIVASAN, M.Sc., B.Ed., TET P2 - Maths Teacher 8489880553.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#17153b",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "./assets/icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./assets/icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
