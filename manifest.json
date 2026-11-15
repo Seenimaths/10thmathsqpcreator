@@ -1,0 +1,24 @@
+{
+  "name": "Seeni XQP Creator Studio V13 — 10th Maths Question Paper Generator",
+  "short_name": "Seeni XQP V13",
+  "description": "Fast, instant-open 10th Standard Mathematics Bilingual (Tamil & English) Question Paper Creator Studio with Auto/2/3/4 Page Alignment, Portrait & Landscape modes, 100M 1-Mark Full Question support, and Individual/Combined Chapter Checkboxes. Developed by Y. Seenivasan, M.Sc., B.Ed., TET P2.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#2563eb",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "assets/icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
